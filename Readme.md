@@ -1,4 +1,4 @@
-[![MasterHead](https://ik.imagekit.io/z23yf8euyq/tr:w-1200/1_LBs0_w2Qh6UGlqGckFkgIg_qJnbJhnMH.png)](https://rishavchanda.io)
+[![MasterHead](win.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Durvesh Gambhe</h1>
 <h3 align="center">A cyber security enthusiast and programmer from India</h3>
 
