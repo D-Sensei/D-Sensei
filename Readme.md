@@ -23,7 +23,7 @@
 </p>
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SECRET&theme=darkhub)![](https://github-profile-trophy.vercel.app/?username=D-Sensei&theme=darkhub&rank=-UNKNOWN)
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SECRET&theme=darkhub)![](https://github-profile-trophy.vercel.app/?username=D-Sensei&theme=darkhub&rank=-UNKNOWN,-C)
 
 ### ✍️ Quote of the Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/oldratlee/hacker-quotes)
