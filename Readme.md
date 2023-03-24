@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [L.O.K.I](https://github.com/D-Sensei/L.O.K.I)
 
-- 💬 Ask me about **web, python,**
+- 💬 Ask me about **web, python,Java**
 
 - 📫 How to reach me **durveshgambhe@gmail.com**
 
