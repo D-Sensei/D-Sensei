@@ -28,7 +28,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/oldratlee/hacker-quotes)
 
 
-![board](https://github.com/aquasecurity/cloudsec-icons/blob/main/src/3rd_Party_Aqua.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D-Sensei&icon=0&color=1)](https://visitcount.itsvg.in)
