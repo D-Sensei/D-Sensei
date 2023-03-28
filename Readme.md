@@ -27,8 +27,8 @@
 ### ✍️ Quote of the Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/oldratlee/hacker-quotes)
 
-[![Holopin board](https://github.com/D-Sensei/D-Sensei/blob/main/holopin.svg)](https://holopin.me/D_Sensei)
-[![Holopin board](https://holopin.me/D_Sensei)](https://holopin.io/@D_Sensei)
+
+[![Holopin board](https://github.com/D-Sensei/D-Sensei/blob/main/holopin.svg)](https://holopin.io/@D_Sensei)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=D-Sensei&icon=0&color=1)](https://visitcount.itsvg.in)
