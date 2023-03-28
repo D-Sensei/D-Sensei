@@ -15,7 +15,7 @@
 # 📊 Stats:
 ![My stats](https://github-readme-stats.vercel.app/api?username=D-Sensei&show_icons=true&theme=dark&hide)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=D-Sensei&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Sensei&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Sensei&theme=dark&hide_border=false&column=2&row=2)
 
 ## Watch my contribution graph get eaten by the snake 🐍
 <p align="center">
