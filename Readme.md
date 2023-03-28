@@ -23,7 +23,7 @@
 </p>
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=D-Sensei&theme=darkhub&Rank=AAA&column=-1)![](https://github-profile-trophy.vercel.app/?username=D-Sensei&theme=darkhub&Rank=SECRET&column=-1)
+![](https://github-profile-trophy.vercel.app/?username=D-Sensei&theme=darkhub&Rank=AAA&column=-1)![](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=SECRET&column=-1)
 
 
 ### ✍️ Quote of the Day
