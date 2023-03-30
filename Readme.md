@@ -26,7 +26,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=D-Sensei&theme=darkhub&rank=AAA&column=-1)[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-SS&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### ✍️ Quote of the Day
+### ✍️ Quote of th Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/oldratlee/hacker-quotes)
 
 
