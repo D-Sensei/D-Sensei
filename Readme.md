@@ -17,13 +17,25 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Sensei&theme=dark&hide_border=false&columns=2&rows=2)
 
 ## Watch my contribution graph get eaten by the snake 🐍
-<p align="center">
- <img align="center" src="https://github.com/BolisettySujith/BolisettySujith/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&rank=-SSS,-SS)![](https://github-profile-trophy.vercel.app/?username=D-Sensei&title=Followers&theme=darkhub)
-![](https://github-profile-trophy.vercel.app/?username=D-Sensei&title=Stars&theme=darkhub&row=1&column=-5)
+<!---![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&rank=-SSS,-SS)![](https://github-profile-trophy.vercel.app/?username=D-Sensei&title=Followers&theme=darkhub)
+![](https://github-profile-trophy.vercel.app/?username=D-Sensei&title=Stars&theme=darkhub&row=1&column=-5)-->
+![](https://github-trophies.vercel.app/?username=D-Sensei&theme=darkhub)
 
 ### ✍️ Quote of the Day
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/oldratlee/hacker-quotes)
