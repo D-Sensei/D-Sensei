@@ -15,8 +15,6 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=for-the-badge&logo=snort&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![LetsDefend](https://img.shields.io/badge/LetsDefend-1E1E1E?style=for-the-badge)
-![CyberDefenders](https://img.shields.io/badge/CyberDefenders-101820?style=for-the-badge)
 
 ### Network Analysis & Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
